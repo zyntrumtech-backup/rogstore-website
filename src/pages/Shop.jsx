@@ -7,7 +7,7 @@ import ProductCard from '../components/ProductCard';
 const modules = import.meta.glob('../data/products/*.json', { eager: true });
 const productsDataRaw = Object.values(modules).map(module => module.default);
 
-const productsData = productsDataRaw.filter(p => !['laptops', 'printers', 'networking'].includes(p.category.toLowerCase()));
+const productsData = productsDataRaw;
 import Breadcrumbs from '../components/Breadcrumbs';
 import LoadingSkeleton from '../components/LoadingSkeleton';
 import SEOMetadata from '../components/SEOMetadata';

@@ -26,13 +26,13 @@ collections:
       - { label: "Unique ID / URL Slug", name: "id", widget: "string", hint: "Simple lowercase identifier with dashes (e.g. rog-rtx-4090)" }
       - { label: "Brand", name: "brand", widget: "string", default: "ROG Store" }
       - { label: "Category", name: "category", widget: "select", options: [
-          "Gaming PCs", "Custom PCs", "Graphics Cards", "Monitors", "Accessories", "Processors", "Motherboards", "RAM", "Power Supplies", "Cases", "CPU Coolers", "Gaming Headsets", "Mechanical Keyboards", "Gaming Mice"
+          "Gaming PCs", "Custom PCs", "Graphics Cards", "Monitors", "Accessories", "Processors", "Motherboards", "RAM", "Power Supplies", "Cases", "CPU Coolers", "Gaming Headsets", "Mechanical Keyboards", "Gaming Mice", "Storage", "Laptops", "Networking", "Printers", "Used PCs", "Used PC Parts", "RGB Fans", "Cables", "Controllers"
         ]}
       - { label: "Availability", name: "availability", widget: "select", default: "in_stock", options: [
           { label: "In Stock", value: "in_stock" },
           { label: "Out of Stock", value: "out_of_stock" },
           { label: "Pre-Order", value: "pre_order" }
         ]}
-      - { label: "Product Image", name: "image", widget: "image" }
+      - { label: "Product Image", name: "image", widget: "string", hint: "Image URL or path" }
       - { label: "Warranty", name: "warranty", widget: "string", default: "Official Brand Warranty", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }

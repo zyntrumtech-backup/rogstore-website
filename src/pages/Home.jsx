@@ -20,7 +20,7 @@ import WhatsAppIcon from '../components/WhatsAppIcon';
 
 const modules = import.meta.glob('../data/products/*.json', { eager: true });
 const productsDataRaw = Object.values(modules).map(module => module.default);
-const productsData = productsDataRaw.filter(p => !['laptops', 'printers', 'networking'].includes(p.category.toLowerCase()));
+const productsData = productsDataRaw;
 
 const Home = () => {
   // Get 6 featured products (filled 3-column layout)

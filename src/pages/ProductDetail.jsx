@@ -9,7 +9,7 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOMetadata from '../components/SEOMetadata';
 import WhatsAppIcon from '../components/WhatsAppIcon';
 
-const productsData = productsDataRaw.filter(p => !['laptops', 'printers', 'networking'].includes(p.category.toLowerCase()));
+const productsData = productsDataRaw;
 
 const ProductDetail = () => {
   const { id } = useParams();

@@ -12,7 +12,7 @@ import SEOMetadata from '../components/SEOMetadata';
 
 const modules = import.meta.glob('../data/products/*.json', { eager: true });
 const productsDataRaw = Object.values(modules).map(module => module.default);
-const productsData = productsDataRaw.filter(p => !['laptops', 'printers', 'networking'].includes(p.category.toLowerCase()));
+const productsData = productsDataRaw;
 
 const Categories = () => {
   // Define 5 premium categories (Laptops removed)
