@@ -21,3 +21,13 @@
   for = "/assets/*.js"
   [headers.values]
     Content-Type = "text/javascript"
+
+[[headers]]
+  for = "/*.jsx"
+  [headers.values]
+    Content-Type = "text/javascript"
+
+[[headers]]
+  for = "/src/*"
+  [headers.values]
+    Content-Type = "text/javascript"
