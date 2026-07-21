@@ -31,9 +31,21 @@
     <meta property="twitter:title" content="ROG Store | Premium Gaming PCs & Custom PC Builder" />
     <meta property="twitter:description" content="Browse premium custom gaming PCs, laptops, and computer components. Order via WhatsApp or phone from ROG Store, Midway Center, Rawalpindi." />
     <meta property="twitter:image" content="/images/hero_setup.png" />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function() {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
