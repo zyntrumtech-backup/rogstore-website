@@ -1,0 +1,27 @@
+{
+  "id": "custom-mini-itx",
+  "name": "ROG Strix Portable ITX Gaming Rig",
+  "brand": "ROG",
+  "category": "Custom PCs",
+  "price": 385000,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "Intel Core i5-14600K",
+    "GPU": "ASUS ROG Strix RTX 4070 Ti SUPER 16GB",
+    "Motherboard": "ASUS ROG Strix Z790-I Gaming WiFi",
+    "RAM": "32GB Corsair Dominator Titanium DDR5 6000MHz",
+    "Storage": "2TB Crucial T500 NVMe SSD",
+    "PowerSupply": "Corsair SF850 850W SFX Gold",
+    "Chassis": "Lian Li A4-H2O Mini-ITX Case",
+    "Cooler": "ROG Ryuo III 240 ARGB"
+  },
+  "description": "A compact desktop powerhouse packing elite hardware in a sub-11L case. Features full ROG styling and efficient cooling technology.",
+  "highlights": [
+    "Ultra-compact footprint, fits easily in a backpack",
+    "Full RTX 4070 Ti SUPER performance with zero thermal throttling",
+    "Premium Mini-ITX motherboard with robust VRMs and WiFi 6E",
+    "Sleek aluminum panels with sandwich-style layout"
+  ]
+}

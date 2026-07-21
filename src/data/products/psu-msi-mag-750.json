@@ -1,0 +1,23 @@
+{
+  "id": "psu-msi-mag-750",
+  "name": "MSI MAG A750GL 750W 80+ Gold PCIe 5",
+  "brand": "MSI",
+  "category": "Power Supplies",
+  "price": 32500,
+  "availability": "in_stock",
+  "warranty": "5 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Wattage": "750W",
+    "EfficiencyRating": "80 Plus Gold",
+    "Modular": "Fully Modular",
+    "PCIe5_Support": "Native 12VHPWR connector (ATX 3.0)"
+  },
+  "description": "The ideal modern power supply supporting NVIDIA 40-series cards. Native 12VHPWR cable removes the need for bulky GPU adapters.",
+  "highlights": [
+    "Native ATX 3.0 and PCIe 5.0 compatible power distribution",
+    "Yellow-tipped 12VHPWR connector ensures correct insert check",
+    "Compact 140mm design fits in standard cases",
+    "80 Plus Gold efficiency rating"
+  ]
+}

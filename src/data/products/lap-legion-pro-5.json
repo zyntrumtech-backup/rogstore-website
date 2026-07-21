@@ -1,0 +1,26 @@
+{
+  "id": "lap-legion-pro-5",
+  "name": "Lenovo Legion Pro 5 Gen 9",
+  "brand": "Lenovo",
+  "category": "Laptops",
+  "price": 395000,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "CPU": "AMD Ryzen 7 8845HS",
+    "RAM": "16GB DDR5 5600MHz",
+    "Storage": "1TB PCIe 4.0 NVMe SSD",
+    "GPU": "NVIDIA GeForce RTX 4060 8GB (140W)",
+    "Display": "16\" WQXGA (2560x1600) IPS 240Hz G-SYNC",
+    "OS": "Windows 11 Home",
+    "Weight": "2.5 kg"
+  },
+  "description": "Highly popular mid-range gaming laptop providing excellent chassis build quality, robust cooling, and great gaming performance.",
+  "highlights": [
+    "High refresh-rate 240Hz display, great for competitive esports",
+    "Powerful Ryzen 7 CPU with AMD Ryzen AI engine",
+    "Legion Coldfront 5.0 advanced thermal design",
+    "TrueStrike Keyboard with 4-zone RGB customization"
+  ]
+}

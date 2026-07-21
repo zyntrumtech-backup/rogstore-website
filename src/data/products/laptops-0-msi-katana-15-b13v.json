@@ -1,0 +1,25 @@
+{
+  "id": "laptops-0-msi-katana-15-b13v",
+  "name": "MSI Katana 15 B13V",
+  "brand": "MSI",
+  "category": "Laptops",
+  "price": 97000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Display": "15.6\" FHD 144Hz",
+    "RAM": "16GB DDR5",
+    "CPU": "Intel i7-13620H",
+    "GPU": "RTX 4050 6GB",
+    "OS": "Windows 11",
+    "Model": "MSI Katana 15 B13V"
+  },
+  "description": "Premium laptop offering solid build design and massive thermal headroom.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "processors-2-intel-core-i3-14100",
+  "name": "Intel Core i3-14100",
+  "brand": "Intel",
+  "category": "Processors",
+  "price": 122000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "AM5",
+    "Cores": "6 Cores",
+    "Threads": "12 Threads",
+    "MaxBoostClock": "5.1 GHz",
+    "Cache": "32MB Cache",
+    "Model": "Intel Core i3-14100"
+  },
+  "description": "Highly efficient gaming processor with solid budget gaming performance.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

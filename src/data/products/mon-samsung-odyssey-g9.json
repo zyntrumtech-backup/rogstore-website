@@ -1,0 +1,24 @@
+{
+  "id": "mon-samsung-odyssey-g9",
+  "name": "Samsung Odyssey G9 OLED 49\" Ultrawide",
+  "brand": "Samsung",
+  "category": "Gaming Monitors",
+  "price": 495000,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "PanelSize": "49-inch Curved (1800R)",
+    "Resolution": "Dual QHD (5120 x 1440)",
+    "AspectRatio": "32:9 Aspect Ratio",
+    "RefreshRate": "240 Hz",
+    "ResponseTime": "0.03 ms"
+  },
+  "description": "A colossal 49-inch dual QHD OLED monitor curved to wrap around your visual field. Equivalent to sitting in front of two 27\" monitors side by side.",
+  "highlights": [
+    "Ultra-wide 32:9 curved OLED display for total immersion",
+    "Neo Quantum Processor Pro optimizes colors and contrasts",
+    "Fast 240Hz refresh rate and FreeSync Pro",
+    "Sleek metal stand with Ring lighting sync"
+  ]
+}

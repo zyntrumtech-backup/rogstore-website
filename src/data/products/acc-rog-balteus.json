@@ -1,0 +1,23 @@
+{
+  "id": "acc-rog-balteus",
+  "name": "ASUS ROG Balteus Qi RGB Mouse Pad",
+  "brand": "ROG",
+  "category": "Accessories",
+  "price": 29500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Size": "370 x 320 mm Portrait orientation",
+    "Charging": "Built-in Qi Wireless charging zone (with LED indicator)",
+    "RGB": "15-zone Aura Sync RGB lighting customizer",
+    "Surface": "Hard micro-textured low friction surface"
+  },
+  "description": "A premium portrait-oriented gaming mousepad. Features a hard low-friction surface, 15 RGB zones, and a wireless Qi charging pad for your phone.",
+  "highlights": [
+    "Charge Qi-compatible phones directly on your mousepad while playing",
+    "15 individually customizable Aura Sync RGB zones",
+    "Built-in USB 2.0 pass-through port on top block",
+    "Non-slip rubber base keeps mousepad planted"
+  ]
+}

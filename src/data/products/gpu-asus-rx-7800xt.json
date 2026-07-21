@@ -1,0 +1,24 @@
+{
+  "id": "gpu-asus-rx-7800xt",
+  "name": "ASUS TUF Gaming Radeon RX 7800 XT OC 16GB",
+  "brand": "ASUS",
+  "category": "Graphics Cards",
+  "price": 185000,
+  "availability": "in_stock",
+  "warranty": "3 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Memory": "16GB GDDR6",
+    "MemoryBus": "256-bit",
+    "Architecture": "RDNA 3",
+    "RecommendedPSU": "700W",
+    "ComputeUnits": "60"
+  },
+  "description": "An incredible mid-range contender from AMD. With 16GB of VRAM and TUF military-grade cooling, it runs any modern game at 1440p easily.",
+  "highlights": [
+    "16GB massive buffer for high-resolution texture packs",
+    "ASUS TUF metal build frame with high durability dual ball bearings",
+    "Supports AMD FSR 3.0 and Fluid Motion Frames",
+    "Dual BIOS switch for Quiet or Performance profiles"
+  ]
+}

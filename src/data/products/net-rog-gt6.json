@@ -1,0 +1,24 @@
+{
+  "id": "net-rog-gt6",
+  "name": "ASUS ROG Rapture GT6 WiFi 6 Mesh (Pair)",
+  "brand": "ROG",
+  "category": "Networking",
+  "price": 115000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Configuration": "2-Pack Mesh Router nodes",
+    "Standard": "Tri-Band AX10000 WiFi 6",
+    "Coverage": "Up to 5,800 sq ft",
+    "Ports": "2.5G WAN port, 3x Gigabit LAN",
+    "Security": "Lifetime Free AiProtection Pro"
+  },
+  "description": "High-performance tri-band mesh system designed specifically for gamer households. Eliminates dead-zones in massive multi-story homes.",
+  "highlights": [
+    "Sleek black nodes with ROG glowing aura sync logo",
+    "Dedicated backhaul band keeps gaming connections lag-free",
+    "Cover massive spaces up to 5,800 square feet",
+    "Triple level game acceleration system prioritizes network packets"
+  ]
+}

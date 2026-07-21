@@ -1,0 +1,23 @@
+{
+  "id": "hdd-toshiba-1tb",
+  "name": "Toshiba P300 1TB Desktop Hard Drive",
+  "brand": "Samsung",
+  "category": "HDD",
+  "price": 11500,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "1TB",
+    "SpindleSpeed": "7200 RPM",
+    "Cache": "64MB Cache",
+    "Interface": "SATA 6Gb/s"
+  },
+  "description": "A highly affordable, stable 1TB internal mechanical drive. Fits standard desktop cases.",
+  "highlights": [
+    "Highly affordable pricing",
+    "7200 RPM operation speed",
+    "Standard performance for basic storage needs",
+    "Built-in shock sensors protecting system data"
+  ]
+}

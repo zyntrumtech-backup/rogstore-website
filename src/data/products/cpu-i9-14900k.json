@@ -1,0 +1,26 @@
+{
+  "id": "cpu-i9-14900k",
+  "name": "Intel Core i9-14900K Flagship Processor",
+  "brand": "Intel",
+  "category": "Processors",
+  "price": 165000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Cores": "24 (8 P-Cores + 16 E-Cores)",
+    "Threads": "32",
+    "MaxBoostClock": "6.0 GHz",
+    "BaseClock": "3.2 GHz",
+    "Cache": "36MB L3 Cache",
+    "TDP": "125W (Max Turbo 253W+)"
+  },
+  "description": "Intel's flagship processor pushing up to a blazing-fast 6.0 GHz boost out of the box. Ideal for extreme overclockers and high-end video editing rigs.",
+  "highlights": [
+    "Blazing fast 6.0 GHz out-of-the-box boost frequency",
+    "Extreme performance in multi-threaded application rendering",
+    "Advanced PCIe 5.0 and DDR5 system bus compatibility",
+    "Support for Intel Extreme Tuning Utility (XTU)"
+  ]
+}

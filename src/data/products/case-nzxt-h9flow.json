@@ -1,0 +1,24 @@
+{
+  "id": "case-nzxt-h9flow",
+  "name": "NZXT H9 Flow Matte White Showcase Case",
+  "brand": "NZXT",
+  "category": "Cases",
+  "price": 49500,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Dual-Chamber Mid-Tower",
+    "Material": "SGCC Steel, Tempered Glass",
+    "Color": "Matte White",
+    "FansIncluded": "4x F120Q Case Fans",
+    "GPUClearance": "435 mm"
+  },
+  "description": "High-airflow dual-chamber showcase case. Designed to cool high-power GPUs while displaying components behind wrap-around glass panels.",
+  "highlights": [
+    "Perforated mesh top and side panel for massive air intakes",
+    "Two chamber layout hiding cable mess and power supplies",
+    "Wrap-around seamless glass front panels",
+    "Comes with 4 preinstalled quiet fans"
+  ]
+}

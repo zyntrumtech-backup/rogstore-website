@@ -1,0 +1,26 @@
+{
+  "id": "cpu-i7-14700k",
+  "name": "Intel Core i7-14700K Desktop Processor",
+  "brand": "Intel",
+  "category": "Processors",
+  "price": 118000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Cores": "20 (8 P-Cores + 12 E-Cores)",
+    "Threads": "28",
+    "MaxBoostClock": "5.6 GHz",
+    "BaseClock": "3.4 GHz",
+    "Cache": "33MB L3 Cache",
+    "TDP": "125W (Max Turbo 253W)"
+  },
+  "description": "Featuring a higher core count than its predecessor, the 14th Gen Intel Core i7-14700K delivers stellar performance in gaming and productive workflows alike.",
+  "highlights": [
+    "Compatible with Intel 600 and 700 series chipsets",
+    "Support for both DDR4 and DDR5 memory modules",
+    "Intel UHD Graphics 770 integrated graphics onboard",
+    "Unlocked and overclockable multiplier"
+  ]
+}

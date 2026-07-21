@@ -1,0 +1,25 @@
+{
+  "id": "ram-vengeance-ddr5-32",
+  "name": "Corsair Vengeance RGB DDR5 32GB 6000MHz",
+  "brand": "Corsair",
+  "category": "RAM",
+  "price": 36500,
+  "availability": "in_stock",
+  "warranty": "Lifetime Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "32GB (2 x 16GB)",
+    "Speed": "6000 MHz",
+    "Latency": "CL36 (36-44-44-96)",
+    "Type": "DDR5 UDIMM",
+    "Profile": "Intel XMP 3.0 / AMD EXPO compatible",
+    "Lighting": "10-zone Dynamic RGB"
+  },
+  "description": "High performance memory offering faster frequencies, greater capacities, and gorgeous customizable RGB LEDs controlled via Corsair iCUE software.",
+  "highlights": [
+    "Optimized for Intel and AMD DDR5 platforms",
+    "High speed 6000MHz CL36 sweet-spot configuration",
+    "Individually addressable RGB LEDs",
+    "Robust aluminum heatspreaders for heat dissipation"
+  ]
+}

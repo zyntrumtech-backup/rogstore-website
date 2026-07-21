@@ -1,0 +1,24 @@
+{
+  "id": "mouse-rog-harpe",
+  "name": "ASUS ROG Harpe Ace Aim Lab Edition",
+  "brand": "ROG",
+  "category": "Gaming Mice",
+  "price": 36500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Weight": "54 grams",
+    "Sensor": "ROG AimPoint 36,000 DPI sensor",
+    "Connectivity": "ROG SpeedNova Wireless, Bluetooth, USB",
+    "Features": "Aim Lab analyzer software integration",
+    "ShellMaterial": "Bio-based nylon shell"
+  },
+  "description": "Co-developed with Aim Lab pro players. Features a 54g bio-nylon chassis, ultra-fast SpeedNova wireless, and calibration utilities.",
+  "highlights": [
+    "One of the lightest mice at 54 grams",
+    "Bio-based eco-friendly nylon shell with textured surface",
+    "Software analyzes player mouse movements to recommend DPI settings",
+    "Bundled with custom ROG patterned grip tapes"
+  ]
+}

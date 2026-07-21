@@ -1,0 +1,27 @@
+{
+  "id": "pc-creator-pro",
+  "name": "ROG Creator Edition workstation PC",
+  "brand": "ASUS",
+  "category": "Gaming PCs",
+  "price": 595000,
+  "availability": "pre_order",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1600541519463-ee359d9972c4?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "Intel Core i9-14900K",
+    "GPU": "ASUS ProArt RTX 4080 SUPER 16GB GDDR6X",
+    "Motherboard": "ASUS ProArt Z790-Creator WiFi",
+    "RAM": "64GB Corsair Vengeance DDR5 5600MHz",
+    "Storage": "2TB Samsung 990 Pro + 4TB WD Blue HDD",
+    "PowerSupply": "ASUS Prime 850W Gold ATX 3.0",
+    "Chassis": "ASUS ProArt PA602",
+    "Cooler": "ROG Strix LC III 360 ARGB"
+  },
+  "description": "Designed strictly for digital artists, video editors, and game developers. The ProArt series prioritizes thermal performance, connectivity (Thunderbolt 4), and minimal noise levels.",
+  "highlights": [
+    "Excellent workstation performance in Adobe suite, Blender, and Unreal Engine",
+    "Thunderbolt 4 and 10Gb Ethernet for lightning-fast network transfers",
+    "Minimalist ProArt black and gold visual theme",
+    "High reliability component selection for long render cycles"
+  ]
+}

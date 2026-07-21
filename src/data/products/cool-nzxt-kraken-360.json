@@ -1,0 +1,24 @@
+{
+  "id": "cool-nzxt-kraken-360",
+  "name": "NZXT Kraken Elite 360 RGB White LCD AIO",
+  "brand": "NZXT",
+  "category": "CPU Coolers",
+  "price": 84000,
+  "availability": "in_stock",
+  "warranty": "6 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Liquid AIO Cooler",
+    "RadiatorSize": "360 mm",
+    "PumpSpeed": "800 - 3600 RPM (Asetek 7th Gen)",
+    "Display": "2.36\" Wide-Angle TFT-LCD (640x640 resolution)",
+    "Fans": "3x F120 RGB Core Fans"
+  },
+  "description": "Get high-performance cooling and display your favorite GIF, system temperatures, or custom branding on a premium 640x640 resolution LCD screen.",
+  "highlights": [
+    "Gorgeous high-res circular LCD screen showing hardware stats",
+    "Industry leading Asetek pump design for silent operation",
+    "High static pressure RGB fans included",
+    "Long 6 year warranty period"
+  ]
+}

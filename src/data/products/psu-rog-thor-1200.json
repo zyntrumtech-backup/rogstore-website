@@ -1,0 +1,24 @@
+{
+  "id": "psu-rog-thor-1200",
+  "name": "ASUS ROG Thor 1200W Platinum II",
+  "brand": "ROG",
+  "category": "Power Supplies",
+  "price": 98000,
+  "availability": "in_stock",
+  "warranty": "10 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Wattage": "1200W",
+    "EfficiencyRating": "80 Plus Platinum Certified",
+    "Modular": "Fully Modular",
+    "SpecialFeatures": "OLED display showing live wattage, Aura Sync RGB",
+    "Cables": "Sleeved Premium Cable Set"
+  },
+  "description": "The quietest 1200W power supply in the industry. Adorned with a custom side-mounted OLED panel showing system power draw in real time.",
+  "highlights": [
+    "80 Plus Platinum certified for high efficiency and low heat",
+    "Integrated OLED panel shows live system wattage utilization",
+    "ROG customized heatsinks offering double thermal volume",
+    "Bundled with individual sleeved black cables with routing combs"
+  ]
+}

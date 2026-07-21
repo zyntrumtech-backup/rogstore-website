@@ -1,0 +1,26 @@
+{
+  "id": "cpu-ryzen-9700x",
+  "name": "AMD Ryzen 7 9700X Zen 5 CPU",
+  "brand": "AMD",
+  "category": "Processors",
+  "price": 135000,
+  "availability": "pre_order",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "AM5",
+    "Cores": "8",
+    "Threads": "16",
+    "MaxBoostClock": "5.5 GHz",
+    "BaseClock": "3.8 GHz",
+    "Cache": "32MB L3 Cache",
+    "TDP": "65W (Eco Mode available)"
+  },
+  "description": "The next generation Zen 5 processor offering incredible IPC improvements and thermal efficiency. Ideal for gamers wanting a cool and highly efficient system.",
+  "highlights": [
+    "Newest Zen 5 architecture on TSMC 4nm process",
+    "Very low 65W TDP power draw",
+    "Improved AVX-512 throughput for AI tasks",
+    "Compatible with AM5 B650, X670, and X870 motherboards"
+  ]
+}

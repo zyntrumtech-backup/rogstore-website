@@ -1,0 +1,23 @@
+{
+  "id": "cases-0-nzxt-h5-flow-black",
+  "name": "NZXT H5 Flow Black",
+  "brand": "NZXT",
+  "category": "Cases",
+  "price": 27000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Mid-Tower",
+    "Material": "Steel, Glass",
+    "GPUClearance": "360 mm",
+    "Model": "NZXT H5 Flow Black"
+  },
+  "description": "Clean minimal PC chassis offering rapid routing setups and clear visibility.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mobo-rog-z790-hero",
+  "name": "ASUS ROG Maximus Z790 Hero WiFi",
+  "brand": "ROG",
+  "category": "Motherboards",
+  "price": 195000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Chipset": "Intel Z790",
+    "MemorySupport": "DDR5 Dual Channel up to 7800MHz+",
+    "PCIe": "2x PCIe 5.0 x16 slots",
+    "USBPorts": "2x Thunderbolt 4 Type-C",
+    "Networking": "Intel 2.5Gb Ethernet + WiFi 6E"
+  },
+  "description": "Top-tier enthusiast motherboard for Intel 12th, 13th, and 14th Gen processors. Features a robust 20+1 power stage delivery, diagnostic LED panels, and PCIe 5.0 M.2 support.",
+  "highlights": [
+    "Heavy duty power delivery for peak CPU overclocking stability",
+    "Dual Thunderbolt 4 ports for creator workflows",
+    "Integrated I/O shield and customizable Polymo lighting display",
+    "Bundled ROG Hyper M.2 card for additional SSD storage"
+  ]
+}

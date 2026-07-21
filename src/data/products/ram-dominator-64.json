@@ -1,0 +1,24 @@
+{
+  "id": "ram-dominator-64",
+  "name": "Corsair Dominator Titanium DDR5 64GB 6000MHz",
+  "brand": "Corsair",
+  "category": "RAM",
+  "price": 78000,
+  "availability": "pre_order",
+  "warranty": "Lifetime Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "64GB (2 x 32GB)",
+    "Speed": "6000 MHz",
+    "Latency": "CL30",
+    "Type": "DDR5",
+    "Customization": "Interchangeable top bars"
+  },
+  "description": "Ultra-premium memory modules featuring gorgeous top bar customizability, DHX cooling technology, and Corsair DHX dual-path cooling system.",
+  "highlights": [
+    "Top-tier memory binning allowing maximum overclock headroom",
+    "DHX cooling tech where the PCB is cooled directly",
+    "11 vibrant addressable Capellix LEDs on each stick",
+    "Interchangeable top bars for customizable aesthetics"
+  ]
+}

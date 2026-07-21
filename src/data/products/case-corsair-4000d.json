@@ -1,0 +1,23 @@
+{
+  "id": "case-corsair-4000d",
+  "name": "Corsair 4000D Airflow Tempered Glass Black",
+  "brand": "Corsair",
+  "category": "Cases",
+  "price": 29500,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Mid-Tower",
+    "Material": "Steel, Tempered Glass, Plastic",
+    "CableManagement": "Corsair RapidRoute system (25mm depth)",
+    "FansIncluded": "2x 120mm Corsair AirGuide fans"
+  },
+  "description": "Highly popular minimalist mid-tower chassis. Features a high-airflow triangular-patterned mesh steel front panel.",
+  "highlights": [
+    "High airflow front mesh panel design",
+    "RapidRoute clean cable channeling routes with zip-ties",
+    "Sleek tinted tempered glass side window panel",
+    "Fits high-end GPUs up to 360mm"
+  ]
+}

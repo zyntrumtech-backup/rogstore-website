@@ -1,0 +1,26 @@
+{
+  "id": "lap-msi-titan-18",
+  "name": "MSI Titan 18 HX A14V",
+  "brand": "MSI",
+  "category": "Laptops",
+  "price": 1150000,
+  "availability": "pre_order",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "CPU": "Intel Core i9-14900HX",
+    "RAM": "64GB DDR5 (Expandable to 128GB)",
+    "Storage": "4TB RAID 0 PCIe 4.0 SSD",
+    "GPU": "NVIDIA GeForce RTX 4090 16GB",
+    "Display": "18\" UHD+ (3840x2400) Mini-LED 120Hz",
+    "OS": "Windows 11 Pro",
+    "Weight": "3.6 kg"
+  },
+  "description": "The ultimate desktop replacement. Unparalleled expandability with 4x RAM slots, 3x SSD slots, and Cherry MX mechanical keyboard.",
+  "highlights": [
+    "Immersive 18-inch 4K Mini-LED high resolution display",
+    "SteelSeries Cherry MX Mechanical keyboard",
+    "Vapor Chamber Cooler with massive output",
+    "Haptic touchpad with RGB highlight zones"
+  ]
+}

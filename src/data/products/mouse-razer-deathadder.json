@@ -1,0 +1,24 @@
+{
+  "id": "mouse-razer-deathadder",
+  "name": "Razer DeathAdder V3 Pro Wireless Mouse",
+  "brand": "Razer",
+  "category": "Gaming Mice",
+  "price": 38500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Weight": "Ultra-lightweight 63g design",
+    "Sensor": "Razer Focus Pro 30K Optical Sensor",
+    "Switches": "Razer Optical Mouse Switches Gen-3 (90M clicks)",
+    "Connectivity": "Razer HyperSpeed Wireless",
+    "PollingRate": "Supports up to 8000Hz (with HyperPolling dongle)"
+  },
+  "description": "Refined ergonomic design engineered with esports pros. An ultra-lightweight profile packed with industry-leading tracking accuracy.",
+  "highlights": [
+    "Remarkably light 63-gram ergonomic design for fast flicking",
+    "99.8% resolution tracking accuracy Focus Pro sensor",
+    "Zero double-clicking risks with light-speed optical switches",
+    "Excellent battery life up to 90 hours"
+  ]
+}

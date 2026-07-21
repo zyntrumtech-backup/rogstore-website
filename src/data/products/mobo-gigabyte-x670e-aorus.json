@@ -1,0 +1,25 @@
+{
+  "id": "mobo-gigabyte-x670e-aorus",
+  "name": "Gigabyte X670E Aorus Pro X",
+  "brand": "Gigabyte",
+  "category": "Motherboards",
+  "price": 115000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "AM5",
+    "Chipset": "AMD X670",
+    "MemorySupport": "DDR5 up to 8000MHz",
+    "PCIe": "PCIe 5.0 x16 + PCIe 5.0 M.2 slot",
+    "ColorTheme": "Full White PCB & Heatsinks",
+    "Networking": "5GbE LAN + WiFi 7"
+  },
+  "description": "An stunning white-themed motherboard for high-end AMD AM5 rigs. Possesses newest WiFi 7 technology and full PCIe Gen 5 support.",
+  "highlights": [
+    "Striking snow-white design, ideal for white thematic builds",
+    "Cutting edge WiFi 7 controller with ultra fast bandwidth",
+    "5 Gigabit high-speed Ethernet LAN port",
+    "EZ-Latch designs for toolless M.2 and GPU removal"
+  ]
+}

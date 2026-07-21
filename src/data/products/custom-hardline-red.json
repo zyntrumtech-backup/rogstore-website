@@ -1,0 +1,27 @@
+{
+  "id": "custom-hardline-red",
+  "name": "ROG Custom Hardline Crimson Build",
+  "brand": "ROG",
+  "category": "Custom PCs",
+  "price": 780000,
+  "availability": "pre_order",
+  "warranty": "2 Years Custom Loop Leak Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "AMD Ryzen 7 7800X3D",
+    "GPU": "ASUS ROG Strix RTX 4080 SUPER 16GB",
+    "Motherboard": "ROG Strix X670E-E Gaming WiFi",
+    "RAM": "32GB G.Skill Trident Z5 Neo RGB 6000MHz",
+    "Storage": "2TB Samsung 990 Pro",
+    "PowerSupply": "ROG Loki 850W SFX-L Platinum",
+    "Chassis": "Lian Li O11D EVO RGB",
+    "Cooler": "Custom EKWB Liquid Cooling Loop"
+  },
+  "description": "A boutique, custom watercooled system. Complete with hardline PETG tubing, crimson red coolant, premium EKWB waterblocks, and custom sleeved cables.",
+  "highlights": [
+    "Stunning custom-bent hardline liquid loop",
+    "Optimal thermal dissipation for the best gaming CPU (7800X3D)",
+    "Fully synchronized ROG Aura Sync RGB lighting",
+    "Custom ROG-themed backplates and PSU cables"
+  ]
+}

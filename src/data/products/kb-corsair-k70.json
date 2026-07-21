@@ -1,0 +1,24 @@
+{
+  "id": "kb-corsair-k70",
+  "name": "Corsair K70 RGB PRO Mechanical Keyboard",
+  "brand": "Corsair",
+  "category": "Mechanical Keyboards",
+  "price": 42500,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Layout": "Full size layout",
+    "Switches": "Cherry MX Red Linear",
+    "PollingRate": "AXON hyper-polling up to 8000Hz",
+    "Keycaps": "Double-shot PBT keycaps",
+    "Cable": "Detachable braided USB-C"
+  },
+  "description": "The classic esports keyboard updated with Corsair AXON processing technology, delivering keystrokes 8x faster than standard keyboards.",
+  "highlights": [
+    "Esports grade 8000Hz polling rate for instant inputs",
+    "Long-lasting textured PBT double-shot keycaps",
+    "Classic durable brushed aluminum faceplate",
+    "Dedicated Tournament Mode switch to disable macros and set static color"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ssd-2-samsung-990-evo-1tb-pcie-5-0",
+  "name": "Samsung 990 EVO 1TB PCIe 5.0",
+  "brand": "Samsung",
+  "category": "SSD",
+  "price": 67000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "1TB",
+    "Interface": "PCIe Gen 4.0 x4",
+    "SequentialRead": "Up to 5,000 MB/s",
+    "FormFactor": "M.2 2280",
+    "Model": "Samsung 990 EVO 1TB PCIe 5.0"
+  },
+  "description": "Top of class solid state storage ensuring instant boots and massive lifespans.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

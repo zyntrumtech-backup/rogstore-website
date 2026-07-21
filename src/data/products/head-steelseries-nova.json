@@ -1,0 +1,23 @@
+{
+  "id": "head-steelseries-nova",
+  "name": "SteelSeries Arctis Nova Pro Wireless",
+  "brand": "Razer",
+  "category": "Gaming Headsets",
+  "price": 94000,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Connectivity": "Dual Wireless 2.4GHz + Bluetooth",
+    "ANC": "Active Noise Cancellation with Transparency mode",
+    "DAC": "Wireless Base Station DAC with Dual USB inputs",
+    "BatterySystem": "Hot-swap dual battery system (Infinity Power)"
+  },
+  "description": "The peak of gaming audio. High-fidelity audio drivers, active noise cancellation, and a wireless DAC station allowing dual-system inputs.",
+  "highlights": [
+    "Active Noise Cancellation (ANC) keeps focus in games",
+    "Wireless DAC box switches input between PC and Console instantly",
+    "Hot-swappable batteries - charge one inside DAC while playing with other",
+    "High-Fidelity audio certified drivers"
+  ]
+}

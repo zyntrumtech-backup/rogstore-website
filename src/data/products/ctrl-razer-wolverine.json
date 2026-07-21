@@ -1,0 +1,23 @@
+{
+  "id": "ctrl-razer-wolverine",
+  "name": "Razer Wolverine V2 Chroma Pro Controller",
+  "brand": "Razer",
+  "category": "Controllers",
+  "price": 59500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Connectivity": "Razer HyperSpeed Wireless + USB Wired",
+    "ActionButtons": "Razer Mecha-Tactile Action Buttons",
+    "ExtraButtons": "6 multi-function remappable buttons",
+    "Lighting": "Razer Chroma RGB strip highlights"
+  },
+  "description": "Pro gaming controller featuring mechanical action buttons, wireless dongle, interchangeable thumbsticks, and full Chroma RGB mapping.",
+  "highlights": [
+    "Mecha-tactile buttons with short 0.65mm actuation distance",
+    "Interchangeable dome and tall thumbstick heads",
+    "6 extra remappable triggers and bumpers",
+    "Hair trigger mode with trigger stop switches"
+  ]
+}

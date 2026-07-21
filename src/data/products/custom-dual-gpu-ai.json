@@ -1,0 +1,27 @@
+{
+  "id": "custom-dual-gpu-ai",
+  "name": "Dual RTX 4090 Deep Learning Node",
+  "brand": "MSI",
+  "category": "Custom PCs",
+  "price": 1450000,
+  "availability": "pre_order",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "AMD Ryzen Threadripper 7960X (24 Cores)",
+    "GPU": "2x MSI RTX 4090 Suprim Liquid X 24GB",
+    "Motherboard": "ASUS ProArt WRX90E-SAGE SE",
+    "RAM": "128GB G.Skill Zeta R5 DDR5 ECC RDIMM",
+    "Storage": "4TB Kingston KC3000 PCIe 4.0 NVMe",
+    "PowerSupply": "Super Flower Leadex 1600W Titanium",
+    "Chassis": "Lian Li V3000 Plus Full Tower",
+    "Cooler": "Custom Loop CPU + Dual Liquid GPUs"
+  },
+  "description": "A custom-built compute powerhouse optimized for AI training, local LLM deployment, and high-fidelity rendering. Features dual liquid-cooled RTX 4090s and Threadripper processor.",
+  "highlights": [
+    "Dual RTX 4090 layout providing 48GB VRAM compute capability",
+    "Server-grade ECC memory for long computing tasks",
+    "Threadripper platform supporting up to 128 PCIe Lanes",
+    "Custom industrial liquid loop for sustained low thermals"
+  ]
+}

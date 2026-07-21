@@ -1,0 +1,23 @@
+{
+  "id": "case-rog-hyperion",
+  "name": "ASUS ROG Hyperion GR701 Metal Frame Case",
+  "brand": "ROG",
+  "category": "Cases",
+  "price": 145000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Full Tower",
+    "Material": "Die-cast Aluminum alloy, Glass, Steel",
+    "SpecialFeatures": "Built-in GPU holder, tool drawer, dual Type-C 20Gbps",
+    "Weight": "20.8 kg"
+  },
+  "description": "A colossal full-tower chassis designed for premium builds. X-shaped aluminum alloy frame, dual swing-out glass doors, and heavy radiator capabilities.",
+  "highlights": [
+    "Epic X-shaped aluminum handle structure carrying up to 80kg",
+    "Dual swing doors with toolless release buttons",
+    "Built-in storage drawer for screwdriver and spare screws",
+    "Dual USB-C 20Gbps ports on the front I/O panel"
+  ]
+}

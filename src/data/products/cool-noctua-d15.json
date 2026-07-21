@@ -1,0 +1,23 @@
+{
+  "id": "cool-noctua-d15",
+  "name": "Noctua NH-D15 chromax.black Dual-Tower",
+  "brand": "Corsair",
+  "category": "CPU Coolers",
+  "price": 36500,
+  "availability": "in_stock",
+  "warranty": "6 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Dual-Tower Air Cooler",
+    "Heatsink": "6 Heatpipe Copper base, Aluminum fins",
+    "Fans": "2x NF-A15 HS-PWM 140mm Fans",
+    "MaxNoise": "24.6 dB(A)"
+  },
+  "description": "The king of air coolers, now in a sleek matte-black shroud. Outperforms many entry liquid coolers while maintaining whisper quiet fan noise.",
+  "highlights": [
+    "Ultimate reliability with zero risk of liquid leakage",
+    "Whisper quiet NF-A15 premium fans with low noise adapters",
+    "Outstanding RAM clearance in single-fan mode",
+    "SecuFirm2 multi-socket mounting system"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "net-asus-pce-ac88",
+  "name": "ASUS PCE-AC88 Dual-Band PCI-E Adapter",
+  "brand": "ASUS",
+  "category": "Networking",
+  "price": 24500,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Interface": "PCI-Express x1 slot",
+    "Speed": "AC3100 (up to 2167 Mbps on 5GHz)",
+    "Antennas": "4x Detachable antennas with magnetic base"
+  },
+  "description": "High-end desktop PCI-E wireless card. Includes a magnetic antenna base to place antennas on top of your desk for unobstructed signals.",
+  "highlights": [
+    "Massive 4x4 receiver array outputs faster desktop WiFi speed",
+    "Custom red heatsink keeps adapter cool under high bandwidth",
+    "External magnetic base offers flexible antenna locations",
+    "MU-MIMO support guarantees dedicated connections"
+  ]
+}

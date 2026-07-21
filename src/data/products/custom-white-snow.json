@@ -1,0 +1,27 @@
+{
+  "id": "custom-white-snow",
+  "name": "Snowbound RTX 4070 White Theme Build",
+  "brand": "NZXT",
+  "category": "Custom PCs",
+  "price": 295000,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "AMD Ryzen 5 7600X",
+    "GPU": "MSI RTX 4070 Gaming X Slim White 12GB",
+    "Motherboard": "Gigabyte B650 AORUS Elite AX Ice",
+    "RAM": "32GB TeamGroup T-Force Delta RGB White 6000MHz",
+    "Storage": "1TB Samsung 980 Pro SSD",
+    "PowerSupply": "Corsair RM850x Shift White 850W",
+    "Chassis": "NZXT H9 Flow Matte White",
+    "Cooler": "NZXT Kraken 360 RGB White"
+  },
+  "description": "A complete snow-white theme setup utilizing matching components, white sleeved cables, and custom fan illumination profiles.",
+  "highlights": [
+    "Beautiful frosted snow-white color scheme",
+    "Kraken LCD block showing active GIFs or temperature readings",
+    "Panoramic dual-chamber showcase chassis",
+    "Runs cool and quiet even during extended sessions"
+  ]
+}

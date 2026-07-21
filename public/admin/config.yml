@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/products"
+public_folder: "/images/products"
+
+collections:
+  - name: "products"
+    label: "Products"
+    label_singular: "Product"
+    folder: "src/data/products"
+    create: true
+    delete: true
+    slug: "{{id}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "ID / Slug", name: "id", widget: "string", hint: "Unique lowercase identifier with dashes (e.g. cpu-ryzen-7800x3d)" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Brand", name: "brand", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: [
+          "Gaming PCs", "Custom PCs", "Graphics Cards", "Monitors", "Accessories", "Processors", "Motherboards", "RAM", "Power Supplies", "Cases", "CPU Coolers", "Gaming Headsets", "Mechanical Keyboards", "Gaming Mice"
+        ]}
+      - { label: "Availability", name: "availability", widget: "select", options: [
+          { label: "In Stock", value: "in_stock" },
+          { label: "Out of Stock", value: "out_of_stock" },
+          { label: "Pre-Order", value: "pre_order" }
+        ]}
+      - { label: "Warranty", name: "warranty", widget: "string" }
+      - { label: "Product Image", name: "image", widget: "image" }
+      - { label: "Highlights", name: "highlights", widget: "list", field: { label: "Highlight Text", name: "highlight", widget: "string" } }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - label: "Specifications"
+        name: "specs"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Model", name: "Model", widget: "string", required: false }
+          - { label: "Processor / CPU", name: "Processor", widget: "string", required: false }
+          - { label: "Graphics / GPU", name: "GPU", widget: "string", required: false }
+          - { label: "RAM / Memory", name: "RAM", widget: "string", required: false }
+          - { label: "Storage", name: "Storage", widget: "string", required: false }
+          - { label: "Power Supply", name: "Wattage", widget: "string", required: false }
+          - { label: "Case Style", name: "Type", widget: "string", required: false }
+          - { label: "Panel Size / Monitor Spec", name: "PanelSize", widget: "string", required: false }
+          - { label: "Layout / Keyboard Spec", name: "Layout", widget: "string", required: false }
+          - { label: "Capacity / SSD RAM Size", name: "Capacity", widget: "string", required: false }

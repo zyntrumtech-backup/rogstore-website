@@ -1,0 +1,24 @@
+{
+  "id": "hdd-seagate-2tb",
+  "name": "Seagate BarraCuda 2TB 7200RPM HDD",
+  "brand": "WD",
+  "category": "HDD",
+  "price": 16500,
+  "availability": "in_stock",
+  "warranty": "2 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "2TB",
+    "SpindleSpeed": "7200 RPM",
+    "Cache": "256MB Cache",
+    "Interface": "SATA 6Gb/s",
+    "FormFactor": "3.5-inch"
+  },
+  "description": "Reliable mass storage drive for gaming libraries, backups, and office documents. Features Seagate's Multi-Tier Caching technology.",
+  "highlights": [
+    "Fast 7200 RPM drive speeds compared to 5400 RPM versions",
+    "Massive 2TB space for storing videos, music, and downloads",
+    "High reliability track record over a decade",
+    "Standard SATA connector works with any motherboard"
+  ]
+}

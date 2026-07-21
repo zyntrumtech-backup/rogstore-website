@@ -1,0 +1,24 @@
+{
+  "id": "motherboards-1-asus-tuf-gaming-b760-plus-wifi",
+  "name": "ASUS TUF Gaming B760-Plus WiFi",
+  "brand": "ASUS",
+  "category": "Motherboards",
+  "price": 132000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Chipset": "Intel B760",
+    "MemorySupport": "DDR5 Dual Channel",
+    "FormFactor": "ATX",
+    "Model": "ASUS TUF Gaming B760-Plus WiFi"
+  },
+  "description": "Highly stable motherboard built for durable computing and easy BIOS navigation.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

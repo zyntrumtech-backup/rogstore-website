@@ -1,0 +1,25 @@
+{
+  "id": "ram-tridentz5-rgb-32",
+  "name": "G.Skill Trident Z5 RGB 32GB DDR5 6000MHz",
+  "brand": "Kingston",
+  "category": "RAM",
+  "price": 38500,
+  "availability": "in_stock",
+  "warranty": "Lifetime Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "32GB (2 x 16GB)",
+    "Speed": "6000 MHz",
+    "Latency": "CL30 (30-38-38-96)",
+    "Type": "DDR5",
+    "Profile": "AMD EXPO / Intel XMP",
+    "Design": "Dual-texture aluminum heat spreader"
+  },
+  "description": "G.Skill Trident Z5 RGB represents the pinnacle of memory engineering. Possesses low latency CL30 timings for maximum frame delivery in games.",
+  "highlights": [
+    "Ultra-low latency CL30 profiles optimized for AMD Ryzen CPUs",
+    "Award winning premium brushed aluminum styling",
+    "High reliability IC chips selected through rigorous testing",
+    "Seamless RGB sync with ASUS, MSI, and Gigabyte software"
+  ]
+}

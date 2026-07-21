@@ -1,0 +1,23 @@
+{
+  "id": "cool-corsair-h150i",
+  "name": "Corsair iCUE Link H150i RGB 360mm AIO",
+  "brand": "Corsair",
+  "category": "CPU Coolers",
+  "price": 78000,
+  "availability": "in_stock",
+  "warranty": "5 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Liquid AIO",
+    "RadiatorSize": "360 mm",
+    "EcoSystem": "Corsair iCUE LINK single cable system",
+    "Fans": "3x QX120 RGB Fans (up to 2400 RPM)"
+  },
+  "description": "Clean up your build with Corsair iCUE LINK architecture. Connects pump and all fans through a single proprietary digital cable interface.",
+  "highlights": [
+    "Revolutionary single-cable daisy chain setup reduces clutter",
+    "Premium QX120 fans with time-warp lighting animations",
+    "Pre-applied Corsair XTM70 thermal compound",
+    "Copper coldplate optimized for Intel and AMD cores"
+  ]
+}

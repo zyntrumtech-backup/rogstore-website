@@ -1,0 +1,23 @@
+{
+  "id": "cpucoolers-1-deepcool-le520-240mm-liquid-aio",
+  "name": "DeepCool LE520 240mm Liquid AIO",
+  "brand": "DeepCool",
+  "category": "CPU Coolers",
+  "price": 127000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Liquid AIO",
+    "RadiatorSize": "240 mm",
+    "Fans": "2x 120mm RGB",
+    "Model": "DeepCool LE520 240mm Liquid AIO"
+  },
+  "description": "Top thermal dissipation cooler running quiet even during prolonged compute renders.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

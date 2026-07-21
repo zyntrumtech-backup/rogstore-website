@@ -1,0 +1,24 @@
+{
+  "id": "net-tplink-ax55",
+  "name": "TP-Link Archer AX55 AX3000 Router",
+  "brand": "TP-Link",
+  "category": "Networking",
+  "price": 19500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Standard": "WiFi 6 (802.11ax)",
+    "Speed": "2402 Mbps on 5GHz + 574 Mbps on 2.4GHz",
+    "Processor": "Dual-Core CPU",
+    "Antennas": "4x High-Gain external antennas",
+    "Ports": "1x Gigabit WAN, 4x Gigabit LAN, 1x USB 3.0"
+  },
+  "description": "Next-gen gigabit WiFi 6 router outputting up to 3Gbps bandwidth. Excellent for low-latency VR gaming and streaming 4K video.",
+  "highlights": [
+    "WiFi 6 technology delivers higher capacity and faster speeds",
+    "OFDMA increases capacity by 4x to connect more devices",
+    "TP-Link HomeShield protects connected devices from cyber threats",
+    "USB 3.0 port enables easy media and network sharing"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ctrl-sony-dualsense",
+  "name": "PlayStation 5 DualSense Edge Controller",
+  "brand": "Samsung",
+  "category": "Controllers",
+  "price": 68000,
+  "availability": "in_stock",
+  "warranty": "6 Months Store Warranty",
+  "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Pro Customizable Controller",
+    "Thumbsticks": "Replaceable stick modules",
+    "RearButtons": "2 customizable back paddles",
+    "TriggerLocks": "Adjustable trigger travel locks"
+  },
+  "description": "Sony's premium pro-grade controller. Personalize button mapping, stick sensitivity, deadzones, and switch between custom profiles on the fly.",
+  "highlights": [
+    "Swappable stick modules prevent stick-drift worries",
+    "Customizable back buttons mapping",
+    "Haptic feedback and adaptive triggers",
+    "Premium carry case with charging cable pass-through"
+  ]
+}

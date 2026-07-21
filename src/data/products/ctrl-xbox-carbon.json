@@ -1,0 +1,23 @@
+{
+  "id": "ctrl-xbox-carbon",
+  "name": "Xbox Wireless Controller - Carbon Black",
+  "brand": "Intel",
+  "category": "Controllers",
+  "price": 18500,
+  "availability": "in_stock",
+  "warranty": "6 Months Store Warranty",
+  "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Connectivity": "Xbox Wireless, Bluetooth, USB-C",
+    "Jack": "3.5mm Stereo Headset Jack",
+    "Batteries": "2x AA Batteries (Up to 40 hours)",
+    "Compatibility": "Xbox Series X|S, Xbox One, PC, Android, iOS"
+  },
+  "description": "Experience the modernized design of the Xbox Wireless Controller, featuring sculpted surfaces and refined geometry for enhanced comfort during gameplay.",
+  "highlights": [
+    "Textured grip on triggers, bumpers, and back-case",
+    "Hybrid D-pad for precise diagonal inputs",
+    "Share button to easily capture screenshot and clips",
+    "Plug and play compatibility with Windows 10/11"
+  ]
+}

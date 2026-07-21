@@ -1,0 +1,24 @@
+{
+  "id": "kb-logi-g915",
+  "name": "Logitech G915 TKL Wireless Mechanical",
+  "brand": "Logitech",
+  "category": "Mechanical Keyboards",
+  "price": 49500,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Layout": "Tenkeyless (TKL)",
+    "Switches": "Low-Profile GL Tactile / Linear",
+    "Thickness": "Ultra-thin 22 mm",
+    "Connectivity": "Lightspeed Wireless, Bluetooth, USB",
+    "BatteryLife": "Up to 40 hours with RGB at 100%"
+  },
+  "description": "Premium low-profile keyboard crafted from aircraft-grade aluminum alloy. Boasts Lightspeed wireless for sub-1ms response times.",
+  "highlights": [
+    "Ultra-thin sleek low profile aesthetic",
+    "Lag-free Lightspeed wireless connection protocol",
+    "Dedicated physical volume scroll roller and media buttons",
+    "Excellent battery life with micro-USB quick charge"
+  ]
+}

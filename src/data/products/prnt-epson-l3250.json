@@ -1,0 +1,23 @@
+{
+  "id": "prnt-epson-l3250",
+  "name": "Epson EcoTank L3250 InkTank Printer",
+  "brand": "Samsung",
+  "category": "Printers",
+  "price": 68500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Color InkTank 3-in-1 (Print, Scan, Copy)",
+    "Cost": "Ultra-low cost printing bottle system",
+    "Connectivity": "WiFi, WiFi Direct, Epson Smart Panel App",
+    "PageYield": "Up to 4,500 black / 7,500 color pages per refill"
+  },
+  "description": "Excellent multi-functional color printer with an integrated ink tank system. Extremely low running costs, great for photos and documents.",
+  "highlights": [
+    "Integrated spill-free ink bottle design",
+    "Print, Scan, and Copy capability",
+    "WiFi Direct allows printing from phone without router",
+    "Refill bottles are highly affordable"
+  ]
+}

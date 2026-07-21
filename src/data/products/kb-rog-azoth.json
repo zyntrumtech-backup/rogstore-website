@@ -1,0 +1,25 @@
+{
+  "id": "kb-rog-azoth",
+  "name": "ASUS ROG Azoth Wireless Custom Keyboard",
+  "brand": "ROG",
+  "category": "Mechanical Keyboards",
+  "price": 78000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Layout": "75% Form Factor layout",
+    "Switches": "ROG NX Red pre-lubed mechanical switches",
+    "HotSwappable": "Yes, 5-pin hot-swap sockets",
+    "Connectivity": "2.4GHz SpeedNova, Bluetooth, USB Wired",
+    "Display": "Integrated 2\" OLED display panel and control knob",
+    "Mounting": "Silicone gasket mount with 3 layers of dampening foam"
+  },
+  "description": "A boutique-level custom keyboard in a retail package. Features gasket mount, lubed switches, hot-swap, and a versatile customizable side OLED panel.",
+  "highlights": [
+    "Gasket mount design with dampening provides a premium typing sound",
+    "Customizable OLED screen displays battery, media, and CPU stats",
+    "Lubed stabilisers and switches out of the box",
+    "Includes complete switch lubing DIY kit in the package"
+  ]
+}

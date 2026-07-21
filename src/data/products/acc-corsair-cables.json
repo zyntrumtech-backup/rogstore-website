@@ -1,0 +1,22 @@
+{
+  "id": "acc-corsair-cables",
+  "name": "Corsair Premium Individually Sleeved PSU Cable Kit",
+  "brand": "Corsair",
+  "category": "Accessories",
+  "price": 26500,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Material": "Flexible paracord sleeving",
+    "Compatibility": "Corsair Type 4 PSUs (RMx, RMi, SF series)",
+    "CablesIncluded": "1x 24-pin ATX, 2x EPS12V CPU, 2x PCIe Dual, 2x PCIe Single"
+  },
+  "description": "Individually sleeved paracord cables in a complete kit. Includes pre-installed modular cable combs to keep routing neat.",
+  "highlights": [
+    "Flexible three-layer mesh paracord sleeves",
+    "Includes modular interlocking cable combs",
+    "Heatshrink-free connector designs",
+    "Wide compatibility with Corsair modular power supplies"
+  ]
+}

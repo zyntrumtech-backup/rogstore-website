@@ -1,0 +1,24 @@
+{
+  "id": "mon-msi-g274",
+  "name": "MSI G274QPF-QD 27\" 170Hz Quantum Dot",
+  "brand": "MSI",
+  "category": "Gaming Monitors",
+  "price": 112000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "PanelSize": "27-inch Rapid IPS",
+    "Resolution": "WQHD (2560 x 1440)",
+    "RefreshRate": "170 Hz",
+    "ResponseTime": "1 ms (GTG)",
+    "ColorGamut": "93% Adobe RGB, Quantum Dot technology"
+  },
+  "description": "Exceptional color performance utilizing a Quantum Dot film layer. Perfect for both competitive gamers and photography content editors.",
+  "highlights": [
+    "Rapid IPS panel ensures fast responses and wide angles",
+    "Quantum Dot technology outputs rich, vibrant primary colors",
+    "WQHD 2560x1440 pixel resolution sweet-spot",
+    "Adjustable ergonomic stand (tilt, swivel, pivot)"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mobo-asus-prime-b760",
+  "name": "ASUS Prime B760M-A WiFi D4",
+  "brand": "ASUS",
+  "category": "Motherboards",
+  "price": 495000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Chipset": "Intel B760",
+    "MemorySupport": "DDR4 Dual Channel",
+    "FormFactor": "Micro-ATX",
+    "Networking": "Realtek 2.5Gb LAN + WiFi 6"
+  },
+  "description": "An affordable, compact motherboard for budget and mid-tier Intel builds. Supporting standard DDR4 memory to keep build costs low.",
+  "highlights": [
+    "Budget friendly build configuration using affordable DDR4 memory",
+    "Dual PCIe 4.0 M.2 slots with heatsinks",
+    "Includes onboard WiFi 6 and Bluetooth v5.2",
+    "Micro-ATX form factor fits in smaller cases"
+  ]
+}

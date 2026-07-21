@@ -1,0 +1,23 @@
+{
+  "id": "hdd-wd-blue-4tb",
+  "name": "WD Blue 4TB 5400RPM Storage HDD",
+  "brand": "WD",
+  "category": "HDD",
+  "price": 28500,
+  "availability": "in_stock",
+  "warranty": "2 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "4TB",
+    "SpindleSpeed": "5400 RPM",
+    "Cache": "256MB Cache",
+    "Interface": "SATA 6Gb/s"
+  },
+  "description": "Quiet and power-efficient secondary storage, designed specifically for desktop PCs and cold-storage system archives.",
+  "highlights": [
+    "Large 4TB storage capacity",
+    "Whisper quiet operation and lower power draw",
+    "NoTouch Ramp Load technology protects recording head",
+    "Perfect for movie libraries and system backups"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cpu-ryzen-7800x3d",
+  "name": "AMD Ryzen 7 7800X3D Processor",
+  "brand": "AMD",
+  "category": "Processors",
+  "price": 114000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "AM5",
+    "Cores": "8",
+    "Threads": "16",
+    "MaxBoostClock": "5.0 GHz",
+    "BaseClock": "4.2 GHz",
+    "Cache": "96MB L3 V-Cache",
+    "TDP": "120W"
+  },
+  "description": "The absolute best gaming processor in the market, utilizing AMD's 3D V-Cache technology to achieve outstanding gaming frame rates.",
+  "highlights": [
+    "Unrivaled gaming efficiency and frame rates",
+    "96MB of L3 3D V-Cache for low memory latencies",
+    "Low power consumption compared to competitors",
+    "Future-proof AM5 platform support until 2026+"
+  ]
+}

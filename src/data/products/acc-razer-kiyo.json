@@ -1,0 +1,22 @@
+{
+  "id": "acc-razer-kiyo",
+  "name": "Razer Kiyo Pro Streaming Webcam",
+  "brand": "Razer",
+  "category": "Accessories",
+  "price": 36500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1600541519463-ee359d9972c4?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Resolution": "1080p at 60 FPS / HDR at 30 FPS",
+    "Sensor": "High-performance Type 1/2.8 ultra-sensitive CMOS sensor",
+    "Lens": "Corning Gorilla Glass 3 with adjustable FOV (80 / 90 / 103 degrees)"
+  },
+  "description": "High-performance USB webcam with adaptive light sensor. Captures incredible image fidelity even in low-lit rooms.",
+  "highlights": [
+    "Incredible low-light capture performance with STARVIS technology",
+    "Fluid 1080p 60FPS output makes streaming look smooth",
+    "HDR mode compensates for bright backlighting",
+    "Built-in privacy cover block"
+  ]
+}

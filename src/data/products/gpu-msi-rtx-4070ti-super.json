@@ -1,0 +1,24 @@
+{
+  "id": "gpu-msi-rtx-4070ti-super",
+  "name": "MSI GeForce RTX 4070 Ti SUPER Gaming X Slim",
+  "brand": "MSI",
+  "category": "Graphics Cards",
+  "price": 265000,
+  "availability": "in_stock",
+  "warranty": "3 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Memory": "16GB GDDR6X",
+    "MemoryBus": "256-bit",
+    "Architecture": "Ada Lovelace",
+    "CUDA_Cores": "8448",
+    "RecommendedPSU": "750W"
+  },
+  "description": "Featuring a specs bump to 16GB VRAM and a wider 256-bit bus, the RTX 4070 Ti SUPER is the sweet spot for modern 4K gaming and generative AI modeling.",
+  "highlights": [
+    "Upgraded to 16GB high-bandwidth VRAM",
+    "Slim chassis profile fits comfortably in smaller cases",
+    "Excellent cooling efficiency with Tri Frozr 3 technology",
+    "Support for full Ray Tracing and DLSS 3 Frame Generation"
+  ]
+}

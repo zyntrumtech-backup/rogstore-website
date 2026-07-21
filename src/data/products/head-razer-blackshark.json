@@ -1,0 +1,23 @@
+{
+  "id": "head-razer-blackshark",
+  "name": "Razer BlackShark V2 Pro Wireless (2023)",
+  "brand": "Razer",
+  "category": "Gaming Headsets",
+  "price": 48500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Drivers": "Razer TriForce Titanium 50mm",
+    "Microphone": "Razer HyperClear Super Wideband Mic (32kHz)",
+    "Connectivity": "2.4GHz HyperSpeed Wireless, Bluetooth 5.2",
+    "BatteryLife": "Up to 70 hours"
+  },
+  "description": "Esports gaming headset updated with a professional wideband microphone, custom-tuned audio EQ profiles, and ultra fast Type-C charging.",
+  "highlights": [
+    "Broadcast-grade 32kHz wideband detachable microphone",
+    "THX Spatial Audio pinpointing enemy footsteps",
+    "Ultra-soft flow-knit memory foam ear cushions",
+    "Long 70-hour battery charge capacity"
+  ]
+}

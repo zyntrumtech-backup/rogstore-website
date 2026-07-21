@@ -1,0 +1,24 @@
+{
+  "id": "motherboards-0-asus-rog-strix-b650-a-gaming-wifi-white",
+  "name": "ASUS ROG Strix B650-A Gaming WiFi White",
+  "brand": "ASUS",
+  "category": "Motherboards",
+  "price": 122000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "LGA1700",
+    "Chipset": "Intel B760",
+    "MemorySupport": "DDR5 Dual Channel",
+    "FormFactor": "ATX",
+    "Model": "ASUS ROG Strix B650-A Gaming WiFi White"
+  },
+  "description": "Highly stable motherboard built for durable computing and easy BIOS navigation.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

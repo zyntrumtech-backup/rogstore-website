@@ -1,0 +1,27 @@
+{
+  "id": "pc-core-i7-standard",
+  "name": "ROG Strix Elite Core i7 Gaming PC",
+  "brand": "ROG",
+  "category": "Gaming PCs",
+  "price": 345000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "Intel Core i7-14700K",
+    "GPU": "MSI Ventus 3X RTX 4070 SUPER 12GB GDDR6X",
+    "Motherboard": "ASUS ROG Strix B760-F Gaming WiFi",
+    "RAM": "32GB Corsair Vengeance RGB DDR5 5600MHz",
+    "Storage": "1TB WD Black SN850X NVMe SSD",
+    "PowerSupply": "Corsair RM750e 750W 80+ Gold",
+    "Chassis": "NZXT H6 Flow RGB Black",
+    "Cooler": "DeepCool LT720 360mm Liquid Cooler"
+  },
+  "description": "A perfect blend of high-end gaming performance and aesthetics. Excellent for high refresh-rate 1440p gaming and stream hosting.",
+  "highlights": [
+    "Stunning 1440p gaming performance on modern AAA titles",
+    "14th Gen Intel Core i7 processor with 20 cores",
+    "Compact panoramic dual-chamber NZXT case",
+    "High-speed PCIe 4.0 NVMe SSD for instant loading times"
+  ]
+}

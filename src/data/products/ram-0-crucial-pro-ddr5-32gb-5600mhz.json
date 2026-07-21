@@ -1,0 +1,24 @@
+{
+  "id": "ram-0-crucial-pro-ddr5-32gb-5600mhz",
+  "name": "Crucial Pro DDR5 32GB 5600MHz",
+  "brand": "Crucial",
+  "category": "RAM",
+  "price": 97000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "16GB (2 x 8GB)",
+    "Speed": "5600 MHz",
+    "Latency": "CL40",
+    "Type": "DDR5",
+    "Model": "Crucial Pro DDR5 32GB 5600MHz"
+  },
+  "description": "Standard high reliability memory modules for professional offices and desks.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

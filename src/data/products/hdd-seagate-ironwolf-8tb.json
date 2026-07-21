@@ -1,0 +1,24 @@
+{
+  "id": "hdd-seagate-ironwolf-8tb",
+  "name": "Seagate IronWolf 8TB NAS HDD",
+  "brand": "WD",
+  "category": "HDD",
+  "price": 68000,
+  "availability": "pre_order",
+  "warranty": "3 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Capacity": "8TB",
+    "SpindleSpeed": "7200 RPM",
+    "Interface": "SATA 6Gb/s",
+    "Optimization": "NAS Optimized with AgileArray firmware",
+    "WorkloadRate": "180TB/year"
+  },
+  "description": "Premium NAS-grade storage designed for 24/7 multi-user environments. Ideal for creative studios and home media servers.",
+  "highlights": [
+    "Optimized for RAID setups and 24/7 continuous operation",
+    "Rotational Vibration (RV) sensors control chassis vibrations",
+    "IronWolf Health Management helps monitor drive status",
+    "AgileArray technology for drive balance and RAID performance"
+  ]
+}

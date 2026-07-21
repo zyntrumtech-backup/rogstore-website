@@ -1,0 +1,24 @@
+{
+  "id": "mon-gigabyte-m27q",
+  "name": "Gigabyte M27Q 27\" 170Hz KVM Monitor",
+  "brand": "Gigabyte",
+  "category": "Gaming Monitors",
+  "price": 98000,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "PanelSize": "27-inch Super Speed IPS",
+    "Resolution": "2560 x 1440",
+    "RefreshRate": "170 Hz",
+    "KVM": "Built-in hardware KVM switch",
+    "ResponseTime": "0.5 ms (MPRT)"
+  },
+  "description": "The world's first gaming monitor with a built-in KVM switch. Toggle controls between laptop and PC with a single button.",
+  "highlights": [
+    "Built-in KVM switch to control two systems with one keyboard/mouse",
+    "Super Speed IPS panel with wide sRGB color spectrum",
+    "High refresh-rate and AMD FreeSync Premium support",
+    "USB Type-C connectivity"
+  ]
+}

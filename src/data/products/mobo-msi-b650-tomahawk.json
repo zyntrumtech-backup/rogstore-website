@@ -1,0 +1,25 @@
+{
+  "id": "mobo-msi-b650-tomahawk",
+  "name": "MSI MAG B650 Tomahawk WiFi",
+  "brand": "MSI",
+  "category": "Motherboards",
+  "price": 72000,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Socket": "AM5",
+    "Chipset": "AMD B650",
+    "MemorySupport": "DDR5 up to 6600MHz+",
+    "PCIe": "PCIe 4.0 x16",
+    "M2Slots": "3x M.2 PCIe 4.0",
+    "Networking": "Realtek 2.5Gb LAN + WiFi 6E"
+  },
+  "description": "The most recommended motherboard for AMD AM5 Ryzen 7000 and 9000 series processors. Offers rock-solid build quality, excellent thermal performance on VRMs, and clean look.",
+  "highlights": [
+    "Excellent VRM heatsink layout keeping temperatures low",
+    "Easy BIOS Flashback button for next-gen CPU support",
+    "Three high speed NVMe M.2 slots with Shield Frozr pads",
+    "Premium audio boost codec output"
+  ]
+}

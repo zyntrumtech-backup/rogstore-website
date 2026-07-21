@@ -1,0 +1,23 @@
+{
+  "id": "ctrl-rog-raikiri",
+  "name": "ASUS ROG Raikiri Pro Xbox Controller",
+  "brand": "ROG",
+  "category": "Controllers",
+  "price": 49500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Display": "Built-in OLED Display (1.3-inch, 128x40)",
+    "Connectivity": "Tri-mode connection (2.4GHz, Bluetooth, USB-C)",
+    "Audio": "Built-in ESS DAC for premium audio output",
+    "RearButtons": "4 remappable back keys"
+  },
+  "description": "Features a customizable built-in OLED display, tri-mode connectivity, four rear buttons, and high-fidelity ESS DAC for gaming headsets.",
+  "highlights": [
+    "Custom OLED screen shows animations, battery status, or active profile",
+    "ESS DAC audio chip inside controller outputs studio audio quality",
+    "Adjustable step trigger locks",
+    "Fully customized via ASUS Armoury Crate"
+  ]
+}

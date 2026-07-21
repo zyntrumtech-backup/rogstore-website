@@ -1,0 +1,23 @@
+{
+  "id": "head-logi-gpro-2",
+  "name": "Logitech G Pro X 2 LIGHTSPEED Wireless",
+  "brand": "Logitech",
+  "category": "Gaming Headsets",
+  "price": 62500,
+  "availability": "pre_order",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Drivers": "50mm Graphene drivers",
+    "Connectivity": "Lightspeed wireless, Bluetooth, 3.5mm cable",
+    "Hinge": "Durable rotating aluminum hinge design",
+    "Mic": "6mm Cardioid Mic with Blue VO!CE filter"
+  },
+  "description": "Designed with professional players. Features revolutionary graphene drivers delivering highly accurate audio response with minimal distortions.",
+  "highlights": [
+    "First gaming headset utilizing advanced Graphene diaphragm drivers",
+    "Blue VO!CE software software filters voice for professional streaming",
+    "Extremely comfortable memory foam leatherette ear pads",
+    "Up to 50 hours of battery life on a single charge"
+  ]
+}

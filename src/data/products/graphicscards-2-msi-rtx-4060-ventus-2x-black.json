@@ -1,0 +1,24 @@
+{
+  "id": "graphicscards-2-msi-rtx-4060-ventus-2x-black",
+  "name": "MSI RTX 4060 Ventus 2X Black",
+  "brand": "NVIDIA",
+  "category": "Graphics Cards",
+  "price": 97000,
+  "availability": "out_of_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Memory": "12GB GDDR6",
+    "MemoryBus": "192-bit",
+    "Architecture": "Ada Lovelace",
+    "RecommendedPSU": "600W",
+    "Model": "MSI RTX 4060 Ventus 2X Black"
+  },
+  "description": "Next-gen ray tracing graphics card for smooth, stutter-free high-frame gaming.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "head-hyperx-cloud3",
+  "name": "HyperX Cloud III Gaming Headset Black",
+  "brand": "Corsair",
+  "category": "Gaming Headsets",
+  "price": 28500,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Wired USB / 3.5mm Headset",
+    "Drivers": "Angled 53mm Neodymium drivers",
+    "Microphone": "Detachable 10mm ultra-clear mic with indicator",
+    "AudioSupport": "DTS Headphone:X Spatial Audio (Lifetime)",
+    "Frame": "Full metal aluminum headband frame"
+  },
+  "description": "The successor to the legendary Cloud II. Delivers upgraded comfort with signature memory foam, re-engineered angled drivers, and crystal-clear microphone capture.",
+  "highlights": [
+    "Signature HyperX comfort with red memory foam headband and cushions",
+    "Re-tuned angled 53mm drivers offer deep, crisp game sounds",
+    "Metal frame built to survive travel and drops",
+    "Compatible with PC, PS5, Xbox Series X, and Nintendo Switch"
+  ]
+}

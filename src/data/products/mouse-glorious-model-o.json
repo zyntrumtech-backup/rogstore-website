@@ -1,0 +1,23 @@
+{
+  "id": "mouse-glorious-model-o",
+  "name": "Glorious Model O 2 Wireless Gaming Mouse",
+  "brand": "Corsair",
+  "category": "Gaming Mice",
+  "price": 24500,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Weight": "68 grams",
+    "Sensor": "BAMF 2.0 26K Sensor",
+    "Connectivity": "2.4GHz / Bluetooth / Wired",
+    "Design": "Honeycomb ventilated shell with RGB strips"
+  },
+  "description": "Symmetrical honeycomb body offering maximum hand ventilation during long sessions. Updated with the highly efficient BAMF 2.0 sensor.",
+  "highlights": [
+    "Honeycomb shell structure reduces weight and keeps palm cool",
+    "Gorgeous dual side RGB illumination tracks",
+    "BAMF 2.0 sensor with low power draw",
+    "Supports Bluetooth for portable laptop operations"
+  ]
+}

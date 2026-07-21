@@ -1,0 +1,24 @@
+{
+  "id": "gpu-gigabyte-rtx-4060",
+  "name": "Gigabyte GeForce RTX 4060 WindForce OC 8G",
+  "brand": "Gigabyte",
+  "category": "Graphics Cards",
+  "price": 98000,
+  "availability": "in_stock",
+  "warranty": "3 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Memory": "8GB GDDR6",
+    "MemoryBus": "128-bit",
+    "Architecture": "Ada Lovelace",
+    "PowerConnectors": "1x 8-pin",
+    "RecommendedPSU": "450W"
+  },
+  "description": "Compact dual-fan layout RTX 4060 graphics card. Delivers outstanding performance-per-watt and handles 1080p competitive esports games with ease.",
+  "highlights": [
+    "Extremely power efficient, requires only a single 8-pin connector",
+    "WindForce dual cooling fan system with alternate spinning",
+    "Full compatibility with DLSS 3.0 Frame Gen",
+    "Ultra-compact length suitable for mini ITX PC cases"
+  ]
+}

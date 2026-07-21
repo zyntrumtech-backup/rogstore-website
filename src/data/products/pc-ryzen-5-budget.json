@@ -1,0 +1,27 @@
+{
+  "id": "pc-ryzen-5-budget",
+  "name": "Aero AMD Ryzen 5 Budget Gaming PC",
+  "brand": "Gigabyte",
+  "category": "Gaming PCs",
+  "price": 185000,
+  "availability": "in_stock",
+  "warranty": "1 Year Store Warranty",
+  "image": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Processor": "AMD Ryzen 5 7600",
+    "GPU": "Gigabyte Eagle RTX 4060 8GB GDDR6",
+    "Motherboard": "Gigabyte B650M DS3H WiFi",
+    "RAM": "16GB Kingston FURY Beast DDR5 5200MHz",
+    "Storage": "1TB Lexar NM710 NVMe SSD",
+    "PowerSupply": "DeepCool PK650D 650W 80+ Bronze",
+    "Chassis": "Antec AX61 Elite RGB",
+    "Cooler": "AMD Wraith Stealth Stock"
+  },
+  "description": "An affordable entryway into modern PC gaming. Leveraging the newer AM5 platform, this PC offers outstanding 1080p performance and an easy upgrade path.",
+  "highlights": [
+    "Smooth 1080p Ultra and 1440p Medium gaming capabilities",
+    "Equipped with RTX 4060 supporting Frame Generation",
+    "Hassle-free future upgrade path with the AMD AM5 socket",
+    "Built-in Dual-band WiFi and Bluetooth connectivity"
+  ]
+}

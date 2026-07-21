@@ -1,0 +1,26 @@
+{
+  "id": "lap-zephyrus-g16",
+  "name": "ASUS ROG Zephyrus G16 OLED (2024)",
+  "brand": "ASUS",
+  "category": "Laptops",
+  "price": 645000,
+  "availability": "in_stock",
+  "warranty": "2 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "CPU": "Intel Core Ultra 9 185H",
+    "RAM": "32GB LPDDR5X 7467MHz",
+    "Storage": "1TB PCIe 4.0 NVMe SSD",
+    "GPU": "NVIDIA GeForce RTX 4070 8GB GDDR6",
+    "Display": "16\" 2.5K (2560x1600) ROG Nebula OLED 240Hz 0.2ms",
+    "OS": "Windows 11 Pro",
+    "Weight": "1.85 kg"
+  },
+  "description": "An ultra-thin, sleek, and light gaming machine. Possesses a mesmerizing 240Hz OLED display panel and the premium slash-lighting array on the CNC lid.",
+  "highlights": [
+    "True black, vibrant colors with VESA DisplayHDR True Black 500 OLED",
+    "Lightweight CNC aluminum chassis (1.49cm thin)",
+    "Intel AI-accelerated Core Ultra processor",
+    "Upgraded 6-speaker audio system with dual woofers"
+  ]
+}

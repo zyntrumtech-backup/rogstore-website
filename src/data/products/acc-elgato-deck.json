@@ -1,0 +1,23 @@
+{
+  "id": "acc-elgato-deck",
+  "name": "Elgato Stream Deck MK.2 White",
+  "brand": "Corsair",
+  "category": "Accessories",
+  "price": 48500,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Keys": "15 customizable LCD keys",
+    "Interface": "USB 2.0 detachable cable",
+    "Stand": "Included 45-degree angle stand",
+    "Faceplate": "Interchangeable faceplate design"
+  },
+  "description": "The ultimate tool for content creators and streamers. 15 tactile LCD keys to trigger actions, launch apps, mute mics, and adjust audio.",
+  "highlights": [
+    "15 customizable LCD keys with dynamic visual icons",
+    "Drag & drop actions using simple Stream Deck PC application",
+    "Deeply integrated with OBS, Twitch, YouTube, and Discord",
+    "Detachable USB-C cable and clean desktop stand"
+  ]
+}

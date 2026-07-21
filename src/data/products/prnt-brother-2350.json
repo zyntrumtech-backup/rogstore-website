@@ -1,0 +1,23 @@
+{
+  "id": "prnt-brother-2350",
+  "name": "Brother HL-L2350DW Mono Laser Printer",
+  "brand": "Intel",
+  "category": "Printers",
+  "price": 49500,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Monochrome Laser Printer",
+    "Speed": "Up to 32 ppm",
+    "Duplex": "Automatic 2-Sided Printing",
+    "Capacity": "250-sheet paper tray capacity"
+  },
+  "description": "A fast, heavy-duty black and white laser printer. Delivers automatic double-sided printing and high capacity tray management.",
+  "highlights": [
+    "Blazing fast speeds up to 32 pages per minute",
+    "Automatic two-sided printing saves paper costs",
+    "Large 250-sheet adjustable paper drawer",
+    "Wireless mobile device printing support"
+  ]
+}

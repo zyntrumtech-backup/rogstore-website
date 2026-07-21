@@ -1,0 +1,25 @@
+{
+  "id": "mon-rog-oled-32",
+  "name": "ASUS ROG Swift OLED PG32UCDM 32\" 4K 240Hz",
+  "brand": "ROG",
+  "category": "Gaming Monitors",
+  "price": 445000,
+  "availability": "pre_order",
+  "warranty": "3 Years Burn-in Warranty",
+  "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "PanelSize": "31.5-inch OLED",
+    "Resolution": "4K UHD (3840 x 2160)",
+    "RefreshRate": "240 Hz",
+    "ResponseTime": "0.03 ms (GTG)",
+    "HDR": "Dolby Vision, VESA DisplayHDR True Black 400",
+    "Connectivity": "DisplayPort 1.4, HDMI 2.1, USB-C (90W Power Delivery)"
+  },
+  "description": "The ultimate 4K gaming monitor. Combines a third-generation QD-OLED panel, 240Hz refresh rate, and near-instantaneous response times for pristine visuals.",
+  "highlights": [
+    "Stunning QD-OLED display providing infinite contrast and deep blacks",
+    "Ultra smooth 240Hz gaming speeds with zero blur",
+    "Premium custom heatsink keeps panel cool to prevent burn-in",
+    "USB-C port supports charging laptop at 90W"
+  ]
+}

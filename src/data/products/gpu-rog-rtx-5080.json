@@ -1,0 +1,25 @@
+{
+  "id": "gpu-rog-rtx-5080",
+  "name": "ASUS ROG Strix GeForce RTX 5080 16GB",
+  "brand": "ROG",
+  "category": "Graphics Cards",
+  "price": 495000,
+  "availability": "pre_order",
+  "warranty": "3 Years Local Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Memory": "16GB GDDR7",
+    "MemoryBus": "256-bit",
+    "Architecture": "Blackwell",
+    "PowerConnectors": "1x 16-pin (12VHPWR)",
+    "RecommendedPSU": "850W",
+    "Outputs": "3x DisplayPort 2.1, 1x HDMI 2.1a"
+  },
+  "description": "The upcoming powerhouse featuring NVIDIA Blackwell architecture, superfast GDDR7 memory, and the legendary ROG Strix metal shroud cooler with triple axial fans.",
+  "highlights": [
+    "Cutting-edge NVIDIA Blackwell architecture with DLSS 4.0",
+    "Ultra-fast next generation GDDR7 graphics memory",
+    "Massive cooling heatsink with triple fan layout and vapor chamber",
+    "Pre-filled warranty for 3 full years in Pakistan"
+  ]
+}

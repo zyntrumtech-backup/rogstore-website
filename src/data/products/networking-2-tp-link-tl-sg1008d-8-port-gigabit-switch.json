@@ -1,0 +1,23 @@
+{
+  "id": "networking-2-tp-link-tl-sg1008d-8-port-gigabit-switch",
+  "name": "TP-Link TL-SG1008D 8-Port Gigabit Switch",
+  "brand": "TP-Link",
+  "category": "Networking",
+  "price": 97000,
+  "availability": "out_of_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Standard": "WiFi 6",
+    "Speed": "1800 Mbps",
+    "Antennas": "4x High Gain",
+    "Model": "TP-Link TL-SG1008D 8-Port Gigabit Switch"
+  },
+  "description": "Robust network interfaces guaranteeing packet integrity and high bandwidth.",
+  "highlights": [
+    "Genuine factory certified product",
+    "Official warranty distribution in Pakistan",
+    "High performance design and build",
+    "Full support via WhatsApp chat"
+  ]
+}

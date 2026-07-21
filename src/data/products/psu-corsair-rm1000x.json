@@ -1,0 +1,25 @@
+{
+  "id": "psu-corsair-rm1000x",
+  "name": "Corsair RM1000x 1000W 80+ Gold PSU",
+  "brand": "Corsair",
+  "category": "Power Supplies",
+  "price": 49500,
+  "availability": "in_stock",
+  "warranty": "10 Years Limited Warranty",
+  "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Wattage": "1000W",
+    "EfficiencyRating": "80 Plus Gold Certified",
+    "Modular": "Fully Modular layout",
+    "Fan": "135mm Magnetic Levitation Fan",
+    "ATX_Standard": "ATX 2.4",
+    "Capacitors": "100% Japanese 105C"
+  },
+  "description": "Providing clean, reliable power with high efficiency. Features fully modular black cables and a magnetic levitation fan for near-silent operation.",
+  "highlights": [
+    "Massive 1000W output, great for dual-GPU or high overclock rigs",
+    "Zero RPM fan mode during low to medium loads",
+    "Fully modular flat black cables for easier cable routes",
+    "Supported by a massive 10 year manufacturer warranty"
+  ]
+}

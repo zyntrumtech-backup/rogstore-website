@@ -1,0 +1,25 @@
+{
+  "id": "case-lianli-o11evo",
+  "name": "Lian Li O11 Dynamic EVO RGB Black",
+  "brand": "NZXT",
+  "category": "Cases",
+  "price": 54000,
+  "availability": "in_stock",
+  "warranty": "1 Year Local Warranty",
+  "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Mid-Tower",
+    "Material": "4.0mm Tempered Glass, Aluminum, Steel",
+    "MotherboardSupport": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+    "GPUClearance": "455 mm",
+    "RadiatorSupport": "Up to 360mm on top/side/bottom",
+    "Aesthetic": "Dual diffuse RGB strips on top & bottom border"
+  },
+  "description": "The legendary dual-chamber panoramic chassis, now updated with thick addressable RGB lines and reversible layout configuration possibilities.",
+  "highlights": [
+    "Seamless panoramic glass view of internal components",
+    "Reversible layout (can be configured to sit on left or right of desk)",
+    "Dual strip RGB strips with multiple mode controls",
+    "Massive radiator clearance space for water cooling loops"
+  ]
+}

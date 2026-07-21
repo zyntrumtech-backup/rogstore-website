@@ -1,0 +1,23 @@
+{
+  "id": "prnt-hp-laser",
+  "name": "HP LaserJet Pro M15w Wireless Printer",
+  "brand": "ASUS",
+  "category": "Printers",
+  "price": 42500,
+  "availability": "in_stock",
+  "warranty": "1 Year Official Warranty",
+  "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=600&q=80",
+  "specs": {
+    "Type": "Monochrome Laser Printer",
+    "Speed": "Up to 19 ppm",
+    "Connectivity": "WiFi, USB, HP Smart App integration",
+    "Size": "Ultra-compact form factor"
+  },
+  "description": "The world's smallest laser printer in its class. Perfect for home offices, students, and businesses wanting clean, high-speed text prints.",
+  "highlights": [
+    "Remarkably compact size fits on any shelf or desk corner",
+    "Fast printing speeds up to 19 pages per minute",
+    "Seamless printing from phone via HP Smart App",
+    "Energy efficient auto-on/auto-off technology"
+  ]
+}
