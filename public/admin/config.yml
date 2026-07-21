@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
+# Editorial Workflow: Enables Drafts mode so updates are only published when the user clicks "Publish"
+publish_mode: editorial_workflow
+
 media_folder: "public/images/products"
 public_folder: "/images/products"
 
